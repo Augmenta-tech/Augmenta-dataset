@@ -16,7 +16,7 @@ All the setup conditions, sensors, tunings, and models might be very different f
 
 ## Template
 
-When contributing to this repository, please provide your files along with this template
+When contributing to this repository, please provide your files in a subdirectory along with this template
 ```
 Dataset description:
 (Insert photo or video of the setup)
